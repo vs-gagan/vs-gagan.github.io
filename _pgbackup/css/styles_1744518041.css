@@ -30,35 +30,17 @@
     --bs-dark: #2e3c42;
     --bs-border-color: #d2dee1;
     --bs-highlight-bg: #e0ecee;
-
-
-  --bs-primary: #5C858E;
-  --bs-primary-rgb: 92, 133, 142;
-
-  --bs-btn-color: #fff;
-  --bs-btn-bg: #5C858E;
-  --bs-btn-border-color: #5C858E;
-
-  --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #486a72;
-  --bs-btn-hover-border-color: #486a72;
-
-  --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #3f5f66;
-  --bs-btn-active-border-color: #3f5f66;
-.btn-primary {
-    background-color: #5C858E;
-    border-color: #5C858E;
-    color: #fff;
-}
-
-.btn-primary:hover {
-    background-color: #486a72;
-    border-color: #486a72;
-}
-
-
-
+    --bs-primary: #5C858E;
+    --bs-primary-rgb: 92, 133, 142;
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #5C858E;
+    --bs-btn-border-color: #5C858E;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #486a72;
+    --bs-btn-hover-border-color: #486a72;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #3f5f66;
+    --bs-btn-active-border-color: #3f5f66;
 }
 
 *,

@@ -79,20 +79,22 @@
     background-color: var(--bs-primary);
     color: #fff;
     border: none;
-    padding: 0.75rem 1.5rem;
-    font-size: 1rem;
-    font-weight: 500;
+    padding: 0.5rem 1.2rem;
+    font-size: 0.95rem;
     border-radius: 2rem;
+
+    /* pill shape like the icons */
     display: inline-flex;
     align-items: center;
-    gap: 0.6rem;
+    gap: 0.5rem;
     transition: background-color 0.3s ease;
     text-decoration: none;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .btn-download-cv:hover {
     background-color: #3f5f66;
+
+    /* darker tone of #5C858E */
     color: #fff;
     text-decoration: none;
 }
